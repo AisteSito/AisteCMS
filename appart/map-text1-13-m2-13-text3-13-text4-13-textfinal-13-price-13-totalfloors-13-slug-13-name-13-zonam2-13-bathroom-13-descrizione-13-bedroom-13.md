@@ -1,0 +1,15 @@
+---
+slug: "13"
+Name: "13"
+M2: "13"
+TotalFloors: "13"
+Bedroom: "13"
+ZonaM2: "13"
+Bathroom: "13"
+Price: "13"
+descrizione: "13"
+text1: "13"
+text3: "13"
+text4: "13"
+textFinal: "13"
+---
