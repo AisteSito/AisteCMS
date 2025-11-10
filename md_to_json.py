@@ -3,7 +3,7 @@ import json
 import frontmatter
 
 # Пути
-FOLDERS = ["villa", "appart", "rent", "sold"]
+FOLDERS = ["villa", "appart", "rent"]
 
 def load_json(json_path):
     if os.path.exists(json_path):
