@@ -6,7 +6,6 @@ on:
       - "villa/**.md"
       - "appart/**.md"
       - "rent/**.md"
-      - "sold/**.md"
       - "md_to_json.py"
 
 jobs:
