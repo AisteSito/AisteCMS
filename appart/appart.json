@@ -378,5 +378,42 @@
         "alt": "butas prie Tirėnų jūros"
       }
     ]
+  },
+  {
+    "slug": "17",
+    "Name": "DVIEJŲ KAMBARIŲ BUTAS PRIE JŪROS SU VAIZDU  Į KALNUS",
+    "M2": "40 m2",
+    "TotalFloors": "2",
+    "Bedroom": "1",
+    "ZonaM2": "40 m2",
+    "Bathroom": "1",
+    "Price": "65.000",
+    "descrizione": "Ieškote poilsio būsto ar pelningos investicijos prie Tirėnų jūros? ",
+    "text1": "Siūlau jaukų 40 kv. m dviejų kambarių butą ramioje ir tvarkingoje  aplinkoje, vos žingsnis nuo paplūdimio, tereikia pereiti gatvę!",
+    "text3": "Butas yra II aukšte. Jame yra: \n • erdvus ir šviesus svetainės kambarys su virtuvės zona\n • miegamasis su dvigule lova\n • vonios  kambarys\n • erdvus  balkonas – puiki vieta pusryčiams gryname ore ar vakarui su taure vyno. ",
+    "text4": "Privalumai: \n •strategiška vieta – vos kelios minutės pėsčiomis iki miesto centro;\n • šalia visos reikalingos paslaugos: vaistinės, prekybos centrai, kavinės, barai\n • paplūdimys – tiesiog už gatvės; \n • tvarkinga, jauki aplinka, ideali tiek poilsiui, tiek nuomai. \nReikalingi kūrybiniai sprendimai.",
+    "textFinal": "Puikus pasirinkimas kaip poilsio būstas arba investicija turizmo nuomos veiklai",
+    "images": [
+      {
+        "alt": "Butai Italijoje už mažą kainą",
+        "src": "17-1-.webp"
+      },
+      {
+        "src": "17-2-.webp",
+        "alt": "Butai Italijoje už mažą kainą"
+      },
+      {
+        "src": "17-3-.webp",
+        "alt": "Butai Italijoje už mažą kainą"
+      },
+      {
+        "src": "17-4-.webp",
+        "alt": "Butai Italijoje už mažą kainą"
+      },
+      {
+        "src": "17-5-.webp",
+        "alt": "Butai Italijoje už mažą kainą"
+      }
+    ]
   }
 ]
