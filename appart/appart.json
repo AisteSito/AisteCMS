@@ -251,5 +251,50 @@
         "alt": "Nekilnojamasis turtas Italijoje"
       }
     ]
+  },
+  {
+    "slug": "14",
+    "Name": "Butas prie jūros Akvapezoje, ramioje, saulės nutviekstoje Kalabrijos pakrantės vietovėje",
+    "M2": "50 m2",
+    "TotalFloors": "1",
+    "Bedroom": "2",
+    "ZonaM2": "50 m2",
+    "Bathroom": "1",
+    "Price": "79.000",
+    "descrizione": "Parduodamas jaukus suremontuotas 2 miegamųjų butas  už 79 000 € + mokesčiai, vos 50 metrų nuo paplūdimio!",
+    "text1": "Nors butas neturi balkono, bet jis  neįtikėtinai arti jūros – užtenka kelių žingsnių, ir jau girdi bangas bei jauti sūrų vėją. Prie lango galima pasistatyti kėdutes ir mažą staliuką, kad kasryt mėgautumėtės kava ir jūros mūša.",
+    "text3": "Sekmadieniais išgirsisite bažnyčios varpus – ji vos už 100 metrų, tad vietovė išlaiko autentišką itališką dvasią. Vakarais krantinė pakvimpa jūra, o saulėlydžiai čia – tarsi atvirukai.",
+    "text4": "Vos 50 m iki paplūdimio. \nRami, tvarkinga vieta, arti centro.\nPuikus pasirinkimas norintiems įsigyti atostogų namus.\nGalimybė mėgautis jūra kasdien – tiesiog išėjus iš namų.",
+    "textFinal": "Akvapeza – vieta, kur rytą pažadina bangų šlamesys, o vakare skamba varpai. Tobula tiems, kas ieško ramybės, saulės ir tikros Italijos atmosferos.",
+    "images": [
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-1-.webp"
+      },
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-2-.webp"
+      },
+      {
+        "src": "14-3-.webp",
+        "alt": "Persikėlimas iš Lietuvos į Italiją"
+      },
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-4-.webp"
+      },
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-5-.webp"
+      },
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-6-.webp"
+      },
+      {
+        "alt": "Persikėlimas iš Lietuvos į Italiją",
+        "src": "14-7-.webp"
+      }
+    ]
   }
 ]
