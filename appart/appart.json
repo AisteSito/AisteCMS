@@ -509,5 +509,50 @@
         "alt": "Nekilnojamojo turto pirkimas Italijoje"
       }
     ]
+  },
+  {
+    "slug": "20",
+    "Name": "Parduodamas erdvus, itališko stiliaus 2 miegamųjų butas pačioje Skalėjos ",
+    "M2": "90 m2",
+    "TotalFloors": "2",
+    "Bedroom": "2",
+    "ZonaM2": "90 m2",
+    "Bathroom": "1",
+    "Price": "120.000",
+    "descrizione": "Parduodamas erdvus, itališko stiliaus 2 miegamųjų butas pačioje Skalėjos širdyje – prestižiniame „Parco Azzurro“ komplekse, vos 600 m nuo jūros.",
+    "text1": "Butas šviesus ir patogaus išplanavimo: svetainė, virtuvė, du miegamieji ir vonios kambarys. Išėjimas į erdvią terasą, kur galima mėgautis poilsiu gryname ore ar vakarais su vaizdu į miestą.",
+    "text3": "Taip pat yra privatus rūsys, patogus daiktų ar paplūdimio įrangos laikymui.",
+    "text4": "Puiki vieta – miesto centras, šalia parduotuvės, kavinės, paslaugos ir pagrindinės turistinės vietos.",
+    "textFinal": "Tai idealus pasirinkimas tiek nuolatiniam gyvenimui, tiek poilsiui prie jūros.",
+    "images": [
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-2-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-3-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-4-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-5-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-6-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-7-.webp"
+      },
+      {
+        "alt": "vasarnamis Italijoje",
+        "src": "20-8-.webp"
+      }
+    ]
   }
 ]
