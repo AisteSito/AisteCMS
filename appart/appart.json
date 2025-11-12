@@ -415,5 +415,62 @@
         "alt": "Butai Italijoje už mažą kainą"
       }
     ]
+  },
+  {
+    "slug": "18",
+    "Name": "Skalėjoje parduodamas erdvus 4 kambarių itališko",
+    "M2": "107 m2",
+    "TotalFloors": "1",
+    "Bedroom": "2",
+    "ZonaM2": "107 m2",
+    "Bathroom": "1",
+    "Price": "125.000",
+    "descrizione": "Skalėjoje parduodamas erdvus 4 kambarių itališko paprastumo butas su vaizdu į žaliuojantį kiemelį ir didele terasa.",
+    "text1": "Bendras plotas: 107 m², naudingas plotas: 96 m².",
+    "text3": "Iki jūros — tik 200 m! Butui reikalingas remontas pagal jūsų poreikius. ",
+    "text4": "Puikiai tinka tiek investicijai, tiek gyvenimui sau.",
+    "textFinal": "Kaina: 125 000 € + mokesčiai (galimos derybos).",
+    "images": [
+      {
+        "alt": "Persikėlimas į Italiją",
+        "src": "18-1-.webp"
+      },
+      {
+        "src": "18-2-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-3-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-4-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-5-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-6-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-7-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-8-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-9-.webp",
+        "alt": "Persikėlimas į Italiją"
+      },
+      {
+        "src": "18-10-.webp",
+        "alt": "Persikėlimas į Italiją"
+      }
+    ]
   }
 ]
