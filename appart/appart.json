@@ -472,5 +472,42 @@
         "alt": "Persikėlimas į Italiją"
       }
     ]
+  },
+  {
+    "slug": "19",
+    "Name": " Parduodamas jaukus, pilnai suremontuotas 2 kambarių butas Skalėjoje. ",
+    "M2": "35 m2",
+    "TotalFloors": "4",
+    "Bedroom": "1",
+    "ZonaM2": "35 m2",
+    "Bathroom": "1",
+    "Price": "52.000",
+    "descrizione": "Butas šviesus ir funkcionalus – svetainė su virtuvės zona, miegamasis, modernus vonios kambarys ir erdvi terasa poilsiui gryname ore",
+    "text1": "Puiki vieta šalia parduotuvių, restoranų ir stoties – tinka tiek poilsiui, tiek investicijai nuomai.",
+    "text3": " ",
+    "text4": " ",
+    "textFinal": " ",
+    "images": [
+      {
+        "alt": "Nekilnojamojo turto pirkimas Italijoje",
+        "src": "19-1-.webp"
+      },
+      {
+        "src": "19-2-.webp",
+        "alt": "Nekilnojamojo turto pirkimas Italijoje"
+      },
+      {
+        "src": "19-3-.webp",
+        "alt": "Nekilnojamojo turto pirkimas Italijoje"
+      },
+      {
+        "src": "19-4-.webp",
+        "alt": "Nekilnojamojo turto pirkimas Italijoje"
+      },
+      {
+        "src": "19-5-.webp",
+        "alt": "Nekilnojamojo turto pirkimas Italijoje"
+      }
+    ]
   }
 ]
