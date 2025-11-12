@@ -54,43 +54,148 @@
   },
   {
     "slug": "10",
-    "Name": "Parduodamas 2 miegamųjų butas su balkonu prie Tirėnų jūros, Skalėjoje, Pietų Italijoje",
-    "M2": "",
-    "TotalFloors": "",
-    "Bedroom": "",
-    "ZonaM2": "",
-    "Bathroom": "",
-    "Price": "",
-    "descrizione": "Butas (apie 50 m2) pilnai renovuotas, jaukus ir paruoštas gyvenimui ar poilsiui.",
-    "text1": "",
-    "text3": "",
-    "text4": "",
-    "textFinal": "",
+    "Name": "Svajonių atostogų butas Pietų Italijoje!",
+    "M2": "54 m2",
+    "TotalFloors": "2",
+    "Bedroom": "2",
+    "ZonaM2": "54 m2",
+    "Bathroom": "1",
+    "Price": "80.000 ",
+    "descrizione": "San Nicola Arcella – itališko stiliaus 2 miegamųjų butas su panoraminiu kalnų vaizdu!",
+    "text1": "Ar kada svajojote pabusti su kalnų vaizdu ir itališkos saulės spinduliais? Parduodamas šviesus ir jaukus 54 m² butas San Nicola Arcella – viename gražiausių pietinės Italijos kampelių, netoli jūros ir kvapą gniaužiančių uolų",
+    "text3": "Butas suprojektuotas autentišku itališku stiliumi:\nSvetainė su virtuve\n2 miegamieji kambariai\nVonia ir tualetas\n2 balkonai – vienas su panoraminiu vaizdu į kalnus, kitas su vaizdu į žaliuojantį sodelį",
+    "text4": "Bendrijos (condominium) teritorijoje yra nuostabus sodelis ir garažai automobiliams.",
+    "textFinal": "Tobulas pasirinkimas tiek poilsiui, tiek investicijai į nuomą – itališka gyvenimo kokybė už prieinamą kainą!",
     "images": [
       {
-        "src": "10.webp",
-        "alt": "appartamento in italia"
+        "src": "10-1-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-2-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-3-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-4-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-5-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-6-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-7-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-8-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-9-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-10-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-11-.webp",
+        "alt": "Apartamentai Italijos pietuose"
+      },
+      {
+        "src": "10-12-.webp",
+        "alt": "Apartamentai Italijos pietuose"
       }
     ]
   },
   {
-    "slug": "",
-    "Name": "",
-    "M2": "",
-    "TotalFloors": "",
-    "Bedroom": "",
-    "ZonaM2": "",
-    "Bathroom": "",
-    "Price": "",
-    "descrizione": "",
-    "text1": "",
-    "text3": "",
-    "text4": "",
-    "textFinal": "",
+    "slug": "12",
+    "Name": "Skalėjoje (Scalea), Italijos pietuose, parduodamas jaukus 2 kambarių butas, iki jūros tik 600 m.",
+    "M2": "30 m²",
+    "TotalFloors": "4",
+    "Bedroom": "1",
+    "ZonaM2": "30 m²",
+    "Bathroom": "1",
+    "Price": "35.000 eur",
+    "descrizione": "Privalumai: \n4 aukštas su liftu;\nkalnų panorama; \npatogi vieta: šalia parduotuvės, prekybos centras, geležinkelio stotis;\nramus, saugus ir gerai išvystytas kvartalas. \n",
+    "text1": "Butas apie 30 m²: svetainė su virtuvės zona, miegamasis ir vonios kambarys.\nPuikus pasirinkimas tiek asmeniniam poilsiui, tiek nuomai.",
+    "text3": "Idealus sprendimas ieškantiems mažos, bet saugios investicijos prie Tirėnų jūros.",
+    "text4": " ",
+    "textFinal": " ",
     "images": [
       {
-        "src": "",
-        "alt": ""
+        "src": "12-1-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "12-2-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "12-3-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "12-4-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "12-5-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "12-6-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      }
+    ]
+  },
+  {
+    "slug": "11",
+    "Name": "PARDUODAMAS PAVELDĖJIMO BŪDU BUTAS SU TERASA IR VAIZDU Į JŪRĄ PIETŲ ITALIJOJE",
+    "M2": "35 m2",
+    "TotalFloors": "1",
+    "Bedroom": "1",
+    "ZonaM2": "35 m2",
+    "Bathroom": "1",
+    "Price": "20.000 eur",
+    "descrizione": "Parduodamas jaukus 4 aukštų butas su terasa Bonifati miestelio širdyje, Via Garibaldi gatvėje – istoriniame centre, vos 6 km nuo jūros.",
+    "text1": "Išplanavimas:\n 1 a. – virtuvė su įėjimu iš gatvės.\n 2 a. – prieškambaris ir vonios kambarys.\n 3 a. – šviesus miegamasis.\n 4 a. – poilsio zona su išėjimu į terasą.",
+    "text3": "Terasa – su įspūdingu vaizdu į jūrą ir kalvas. Puiki vieta poilsiui ar vakarienei saulėlydžio metu.\n",
+    "text4": "Pastaba: Butas parduodamas paveldėjimo būdu, todėl taikomos papildomos teisinės sąlygos ir procedūros. ",
+    "textFinal": "Autentiškas itališkas stilius, ramybė, privatumas ir tikras Bonifati senamiesčio žavesys.\nPuikus pasirinkimas poilsiui ar investicijai į turizmą!",
+    "images": [
+      {
+        "alt": "Pajūrio turtas Italijoje",
+        "src": "11-1-.webp"
+      },
+      {
+        "alt": "Pajūrio turtas Italijoje",
+        "src": "11-3-.webp"
+      },
+      {
+        "src": "11-4-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "11-5-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "src": "11-6-.webp",
+        "alt": "Pajūrio turtas Italijoje"
+      },
+      {
+        "alt": "Pajūrio turtas Italijoje",
+        "src": "11-7-.webp"
       }
     ]
   }
