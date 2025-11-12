@@ -198,5 +198,58 @@
         "src": "11-7-.webp"
       }
     ]
+  },
+  {
+    "slug": "13",
+    "Name": "Renovuotas, patogiai įrengtas 2 kambarių butas 1 km nuo jūros, iš kurio atsiveria vaizdas į senovinę pilį…",
+    "M2": "60 m2",
+    "TotalFloors": "1-2",
+    "Bedroom": "2",
+    "ZonaM2": "60 m2",
+    "Bathroom": "2",
+    "Price": "135.000",
+    "descrizione": "Įsivaizduokite, visiškai suremontuotas, jaukiai įrengtas 2 miegamųjų butas vos 1 km nuo jūros, su vaizdu į senovinę pilį\n",
+    "text1": "Tobulas pasirinkimas poilsiui, nuomai ar investicijai.\nDviejų aukštų, pilnai įrengtas, su baldais, šildymo sistema ir automobilio stovėjimo vieta ir ne tik",
+    "text3": "Tiesiog įsikelkite ir gyvenkite itališkai! ",
+    "text4": "Skalėja, Kalabrija: autentiškas senamiestis, jūros brizas ir itališka ramybė ranka pasiekiami.",
+    "textFinal": "Gal tai jūsų itališkas sapnas, laukiantis, kol pavirs tikrove?",
+    "images": [
+      {
+        "src": "13-1-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-2-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-3-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-4-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-5-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-6-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-7-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-8-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      },
+      {
+        "src": "13-9-.webp",
+        "alt": "Nekilnojamasis turtas Italijoje"
+      }
+    ]
   }
 ]
