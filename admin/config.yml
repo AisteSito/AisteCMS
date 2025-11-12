@@ -3,7 +3,7 @@ backend:
   repo: AisteSito/AisteCMS
   branch: main
 
-# Обязательно указываем media_folder и media_library
+
 media_folder: "uploads"
 public_folder: "/uploads"
 
@@ -13,9 +13,8 @@ collections:
     folder: "villa"
     create: true
     slug: "{{fields.slug}}"
-    # Фото будут сохраняться в ту же папку, что и md-файл
-    media_folder: ""  # Пустая строка — фото в той же папке
-    public_folder: "" # Пустая строка — публичный путь такой же
+    media_folder: "/foto"  
+    public_folder: "/foto" 
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Pavadinimas", name: "Name", widget: "string" }
@@ -42,8 +41,8 @@ collections:
     folder: "appart"
     create: true
     slug: "{{fields.slug}}"
-    media_folder: ""
-    public_folder: ""
+    media_folder: "/foto"
+    public_folder: "/foto"
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Pavadinimas", name: "Name", widget: "string" }
@@ -70,8 +69,8 @@ collections:
     folder: "rent"
     create: true
     slug: "{{fields.slug}}"
-    media_folder: ""
-    public_folder: ""
+    media_folder: "/foto"
+    public_folder: "/foto"
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Pavadinimas", name: "Name", widget: "string" }
