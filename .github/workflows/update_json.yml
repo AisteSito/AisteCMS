@@ -39,4 +39,6 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.AisteCMS }}  # Используем твой токен
+          github_token: ${{ secrets.AisteCMS }}
+          branch: main
+          force: true

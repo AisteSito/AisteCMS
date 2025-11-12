@@ -13,7 +13,7 @@ collections:
     folder: "villa"
     create: true
     slug: "{{fields.slug}}"
-    media_folder: "/foto"  
+    media_folder: "foto"  
     public_folder: "/foto" 
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
@@ -41,7 +41,7 @@ collections:
     folder: "appart"
     create: true
     slug: "{{fields.slug}}"
-    media_folder: "/foto"
+    media_folder: "foto"
     public_folder: "/foto"
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
@@ -69,7 +69,7 @@ collections:
     folder: "rent"
     create: true
     slug: "{{fields.slug}}"
-    media_folder: "/foto"
+    media_folder: "foto"
     public_folder: "/foto"
     fields:
       - { label: "Slug", name: "slug", widget: "string" }
